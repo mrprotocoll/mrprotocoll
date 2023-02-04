@@ -3,7 +3,7 @@ Full Stack Developer with a passion for solving complex problems and creating im
 
 ## Skills
 
-- Strong proficiency in [JavaScript, React and Redux,and PHP]
+- Strong proficiency in [JavaScript, React and Redux, and PHP]
 - Experience with [Bootstrap, JQuery, OOP]
 - Knowledge of [MySQL, AWS Cloud, NodeJS]
 - Familiar with [Agile, Scrum.]
