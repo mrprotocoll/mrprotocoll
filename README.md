@@ -23,6 +23,3 @@ const damilareProtocoll = {
 <a href="https://www.linkedin.com/in/mrprotocoll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heinthant" height="20" width="30" /></a>
 </p>
 
-## language and Tools
-
-## Github Stats
