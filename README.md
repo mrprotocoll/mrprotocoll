@@ -6,7 +6,7 @@ A Full Stack Developer with a passion for solving complex problems and creating 
 const damilareProtocoll = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  stronglyProficientIn: [JavaScript, Ruby, RoR, PHP, MySQL, OOP, Bootstrap, JQuery],
+  stronglyProficientIn: [JavaScript, Ruby, RoR, PHP, MySQL, Postgesql, Testing, OOP, Bootstrap, JQuery],
   experienceWith: [React, Redux, NextJs, Jira, Confluence, Linux],
   knowledgeOf: [NodeJs, AWS, TypeScript],
   abilityTo ['Communicate','Collaborate with diverse teams','Think critically'],
