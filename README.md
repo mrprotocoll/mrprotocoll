@@ -6,14 +6,17 @@ A Full Stack Developer with a passion for solving complex problems and creating 
 const damilareProtocoll = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  stronglyProficientIn: [JavaScript, Ruby, RoR, PHP, MySQL, Postgesql, Testing, OOP, Bootstrap, JQuery],
+  programmingLanguage: [JavaScript, Ruby, PHP],
+  database: [MySQL, Postgesql]
+  frameworksAndLibrary: [ReactJs, Redux, Ruby on Rails, Tailwindcss, Bootstrap, JQuery],
+  toolsAndMethods: [Test Driven Development (TDD), OOP, Git and Github, Jira, Confluence],
   experienceWith: [React, Redux, NextJs, Jira, Confluence, Linux],
   knowledgeOf: [NodeJs, AWS, TypeScript],
-  abilityTo ['Communicate','Collaborate with diverse teams','Think critically'],
-  goal: "Silicon valley in Africa",
+  abilityTo: ['Communicate', 'Collaborate with diverse teams', 'Think critically'],
+  goal: "Silicon Valley in Africa",
   funFacts: ["I love watching intuitive programs like Dragon's Den",
-  "I easily get goosebumps when I listen to good music","I'm a fan of Kiss Daniel", 
-  'I am addicted to my computer'],
+  "I easily get goosebumps when I listen to good music",
+  'I am addicted to my computer],
 }
 ```
 
