@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Damilare Protocoll
-A Full Stack Developer with a passion for solving complex problems and creating impactful solutions. With 3 years of experience in the industry, I am well-versed in various technologies and always eager to learn more.
+I'm a software engineer and I am passionate about making a difference through my work and Building scalable solutions with React, Redux, and Ruby on Rails.
 
 ### My Highlights:
 ```javascript
