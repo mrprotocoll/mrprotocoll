@@ -10,8 +10,7 @@ const damilareProtocoll = {
   database: [MySQL, Postgesql]
   frameworksAndLibrary: [ReactJs, Redux, Ruby on Rails, Tailwindcss, Bootstrap, JQuery],
   toolsAndMethods: [Test Driven Development (TDD), OOP, Git and Github, Jira, Confluence],
-  experienceWith: [React, Redux, NextJs, Jira, Confluence, Linux],
-  knowledgeOf: [NodeJs, AWS, TypeScript],
+  knowledgeOf: [NodeJs, AWS, TypeScript, Linux],
   abilityTo: ['Communicate', 'Collaborate with diverse teams', 'Think critically'],
   goal: "Silicon Valley in Africa",
   funFacts: ["I love watching intuitive programs like Dragon's Den",
