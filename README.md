@@ -16,5 +16,4 @@
 - ⚙️ Git | Docker | AWS | Linux
 - 🖥️ Jira | Confluence 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrprotocoll&label=Profile%20views&color=0e75b6&style=flat" alt="mrprotocoll" /> </p>
 Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to chat. I'm always open to new connections and exciting projects!
