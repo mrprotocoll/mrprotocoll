@@ -1,6 +1,15 @@
-# 👋 Hi, I'm Damilare Protocoll
-I'm a software engineer and I am passionate about making a difference through my work and Building scalable solutions with React, Redux, and Ruby on Rails.
+# Hello, I'm Damilare Protocoll 👋 
+*Analytical software engineer, with 3+ years of experience creating impactful and scalable solutions using JavaScript, React, Redux, and Ruby on Rails. I thrive in a collaborative environment where teamwork and collaboration are valued.*
 
+## Skills
+
+- 💻 JavaScript | HTML | CSS
+- 🌐 React | Vue.js | Angular
+- 📦 Node.js | Express.js
+- 🛢️ MongoDB | MySQL
+- ⚙️ Git | Docker
+- 🖥️ UI/UX Design | Responsive Web Design
+  
 ### My Highlights:
 ```javascript
 const damilareProtocoll = {
@@ -24,3 +33,4 @@ const damilareProtocoll = {
 <a href="https://www.linkedin.com/in/mrprotocoll/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heinthant" height="20" width="30" /></a>
 </p>
 
+Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to chat. I'm always open to new connections and exciting projects!
