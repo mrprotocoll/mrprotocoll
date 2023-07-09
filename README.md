@@ -1,5 +1,4 @@
-# Hello! 👋 
-## Open to new opportunities
+# Hello! and Welcome 👋 
 *Analytical software engineer, with 3+ years of experience creating impactful and scalable solutions using JavaScript, React, Redux, and Ruby on Rails. I thrive in a collaborative environment where teamwork and collaboration are valued.*
 
 **Talking about Personal Stuff:**
