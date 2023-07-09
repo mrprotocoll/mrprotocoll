@@ -14,8 +14,7 @@ const damilareProtocoll = {
   abilityTo: ['Communicate', 'Collaborate with diverse teams', 'Think critically'],
   goal: "Silicon Valley in Africa",
   funFacts: ["I love watching intuitive programs like Dragon's Den",
-  "I easily get goosebumps when I listen to good music",
-  'I am addicted to my computer],
+  "I easily get goosebumps when I listen to good music"],
 }
 ```
 
