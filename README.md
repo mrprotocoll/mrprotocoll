@@ -11,7 +11,7 @@
 
 - 💻 JavaScript | PHP | Ruby
 - 🌐 ReactJs | Redux | Tailwind | Bootstrap | JQuery
-- 📦 Ruby on Rails | Laravel
+- 📦 Laravel | Ruby on Rails
 - 🛢️ PostgreSQL | MySQL
 - ⚙️ Git | Docker | AWS | Linux
 - 🖥️ Jira | Confluence 
