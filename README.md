@@ -1,5 +1,5 @@
 # Hello! and Welcome 👋 
-*I am an Analytical software engineer, with 3+ years of experience creating impactful and scalable solutions using JavaScript, React, Redux, and Ruby on Rails. I thrive in a collaborative environment where teamwork and collaboration are valued.*
+*I am an Analytical software engineer, with 3+ years of experience creating impactful and scalable solutions using JavaScript, React and Redux, Laravel and some Ruby on Rails. I thrive in a collaborative environment where teamwork and collaboration are valued.*
 
 - 🤔 I’m open to opportunities and looking to collaborate on JavaScript, React, and Ruby on Rails Project
 - 📫 How to reach me: [Personal Website](https://www.mrprotocoll.me), [Twitter](https://twitter.com/dprotocoll),  [LinkedIn](https://www.linkedin.com/in/mrprotocoll),  [Threads](https://www.threads.net/@mrprotocoll)
