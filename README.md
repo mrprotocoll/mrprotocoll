@@ -1,7 +1,7 @@
 # Hello! and Welcome 👋 
 *I am an Analytical software engineer, with experience creating impactful and scalable solutions using JavaScript, React and Redux, and Laravel. I thrive in a collaborative environment where teamwork and collaboration are valued.*
 
-- 🤔 I’m open to opportunities and looking to collaborate on JavaScript, React, and Ruby on Rails Project
+- 🤔 I’m open to opportunities and looking to collaborate on JavaScript, React, and Laravel Project
 - 📫 How to reach me: [Personal Website](https://www.mrprotocoll.me), [Twitter](https://twitter.com/dprotocoll),  [LinkedIn](https://www.linkedin.com/in/mrprotocoll),  [Medium](https://medium.com/@mrprotocoll)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Battle Rap, I easily get goosebumps when I listen to good music
