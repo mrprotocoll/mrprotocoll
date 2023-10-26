@@ -1,4 +1,4 @@
-# Full-Stack Web Development with HTML, CSS, JavaScript, React/Redux, and Tailwind CSS
+# Front-end development with HTML, CSS, JavaScript, React/Redux, and Tailwind CSS
 
 **Duration**: 12 weeks (3 hours per session, 2 sessions per week)
 
