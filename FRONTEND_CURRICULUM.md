@@ -27,6 +27,7 @@
 - CSS selectors and properties
 - Layout and positioning with CSS
 - Building responsive web pages with CSS
+- Building a responsive web pages with Bootstrap
 
 ## Week 2-6: JavaScript Basics
 
