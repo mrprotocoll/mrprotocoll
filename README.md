@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Personal Website](https://www.mrprotocoll.me) :|: [Twitter](https://twitter.com/dprotocoll) :|:  [LinkedIn](https://www.linkedin.com/in/mrprotocoll) :|:  [Medium](https://medium.com/@mrprotocoll)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Battle Rap, I like to listen to good music and worship
--  🌱 Hobbies: Watching TV series and intuitive programs like Dragon's Den. I also like Battle Rap
+-  🌱 Hobbies: Watching TV series and intuitive programs like Dragon's Den.
 
 ## Skills and Tools
 
