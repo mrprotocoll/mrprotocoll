@@ -4,8 +4,8 @@
 - 🤔 I’m open to opportunities and looking to collaborate on JavaScript, React, and Laravel Project
 - 📫 How to reach me: [Personal Website](https://www.mrprotocoll.me) :|: [Twitter](https://twitter.com/dprotocoll) :|:  [LinkedIn](https://www.linkedin.com/in/mrprotocoll) :|:  [Medium](https://medium.com/@mrprotocoll)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Battle Rap, I easily get goosebumps when I listen to good music and worship
--  🌱 Hobbies: Watching TV series and intuitive programs like Dragon's Den
+- ⚡ Fun fact: I like Battle Rap, I like to listen to good music and worship
+-  🌱 Hobbies: Watching TV series and intuitive programs like Dragon's Den. I also like Battle Rap
 
 ## Skills and Tools
 
