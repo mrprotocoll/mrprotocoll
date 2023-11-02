@@ -1,5 +1,5 @@
 # Hello! and Welcome 👋 
-*I am a software engineer, and I love people, nature, and growth. I thrive in a collaborative environment where teamwork and collaboration are valued.*
+*I am a software engineer, and I love people, nature, and growth😄. I thrive in a collaborative environment where teamwork and collaboration are valued.*
 
 - 🤔 I’m open to opportunities and looking to collaborate on JavaScript, React, and Laravel Project
 - 📫 How to reach me: [Personal Website](https://www.mrprotocoll.me) :|: [Twitter](https://twitter.com/dprotocoll) :|:  [LinkedIn](https://www.linkedin.com/in/mrprotocoll) :|:  [Medium](https://medium.com/@mrprotocoll)
