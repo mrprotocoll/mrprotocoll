@@ -9,7 +9,7 @@
 
 ## Skills and Tools
 
-- 💻 JavaScript :|: PHP :|: Ruby
+- 💻 JavaScript <> PHP <> Ruby
 - 🌐 NextJs :|: ReactJs :|: Redux :|: Tailwind :|: Bootstrap :|: JQuery
 - 📦 Laravel :|: Ruby on Rails
 - 🛢️ PostgreSQL :|: MySQL
