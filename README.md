@@ -10,15 +10,15 @@
 ## Skills and Tools
 
 ```sh
-Language = [ JS, PHP, Ruby ];
+Language = [ JS, PHP, Ruby ]
 
-Backend = [ Laravel,  Ruby on Rails ];
+Backend = [ Laravel,  Ruby on Rails ]
 
-Frontend = [ NextJs, ReactJs, Redux, Tailwind, Bootstrap, JQuery ];
+Frontend = [ NextJs, ReactJs, Redux, Tailwind, Bootstrap, JQuery ]
 
-Tools = [ Git, Docker, AWS, Linux, CI/CD ];
+Tools = [ Git, Docker, AWS, Linux, CI/CD ]
 
-Collaboration = [ Jira, Confluence, Linear, Trello];
+Collaboration = [ Jira, Confluence, Linear, Trello]
 
 ```
 
