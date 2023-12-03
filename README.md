@@ -9,11 +9,17 @@
 
 ## Skills and Tools
 
-- 💻 JavaScript <> PHP <> Ruby
-- 🌐 NextJs <> ReactJs <> Redux <> Tailwind <> Bootstrap <> JQuery
-- 📦 Laravel <> Ruby on Rails
-- 🛢️ PostgreSQL <> MySQL
-- ⚙️ Git <> Docker <> AWS <> Linux <> CI/CD
-- 🖥️ Jira <> Confluence <> Linear
+```sh
+Language = [ JS, PHP, Ruby ];
+
+Backend = [ Laravel,  Ruby on Rails ];
+
+Frontend = [ NextJs, ReactJs, Redux, Tailwind, Bootstrap, JQuery ];
+
+Tools = [ Git, Docker, AWS, Linux, CI/CD ];
+
+Collaboration = [ Jira, Confluence, Linear, Trello];
+
+```
 
 Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to chat.
