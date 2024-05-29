@@ -1,6 +1,17 @@
 # Full-Stack Web Development Curriculum
 
 ## Frontend Development
+Week 2: Introduction to JavaScript
+Introduction to JavaScript
+Variables, data types, and operators
+Control flow and loops
+Functions and scope
+Practical Project: Create an interactive quiz
+Week 3: DOM Manipulation
+Understanding the Document Object Model (DOM)
+Selecting and manipulating DOM elements
+Event handling in JavaScript
+Practical Project: Build a dynamic to-do list application
 
 ### Week 1-2: Introduction to JavaScript
 
@@ -10,9 +21,9 @@
 - Functions and scope
 
 #### Practical Project:
-Build a simple calculator
+Build a simple interactive quiz
 
-### Week 3-4: DOM Manipulation
+### Week 3: DOM Manipulation
 
 - Understanding the Document Object Model (DOM)
 - Selecting and manipulating DOM elements
@@ -20,7 +31,16 @@ Build a simple calculator
 - Creating and removing elements dynamically
 
 #### Practical Project:
-Develop an interactive photo gallery
+Build a dynamic to-do list application
+
+### Week 4 - 5: Advanced JavaScript
+- Object-oriented programming in JavaScript
+- Arrays and array methods
+- ES6 features: arrow functions, template literals, destructuring, etc.
+- Asynchronous JavaScript: callbacks, promises, async/await
+  
+#### Practical Project: 
+Create a weather application using an external API
 
 ### Week 5-6: Introduction to React
 
