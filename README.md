@@ -18,7 +18,7 @@ Frontend = [ NextJs, ReactJs, Redux, Tailwind, Bootstrap, JQuery ]
 
 Tools = [ Git, Docker, AWS, Linux, CI/CD ]
 
-Collaboration = [ Jira, Confluence, Linear, Trello]
+Collaboration = [ Jira, Confluence, Linear, Trello ]
 
 ```
 
