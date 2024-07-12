@@ -2,7 +2,7 @@
 *A software engineer, He loves people, nature, and growth😄. He thrives in a collaborative environment where teamwork is valued.*
 
 - 🤔 He is open to opportunities and looking to collaborate on JavaScript, React, and Laravel Project
-- 📫 How to reach him: [Personal Website](https://www.mrprotocoll.me) :|: [Twitter](https://twitter.com/dprotocoll) :|:  [LinkedIn](https://www.linkedin.com/in/mrprotocoll) :|:  [Medium](https://medium.com/@mrprotocoll)
+- 📫 How to reach him: [Personal Website](https://www.mrprotocol.dev) :|: [Twitter](https://twitter.com/dprotocoll) :|:  [LinkedIn](https://www.linkedin.com/in/mrprotocoll) :|:  [Medium](https://medium.com/@mrprotocoll)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: He is currently building **Resplify**, He enjoys Battle Rap
 -  🌱 Hobbies: Watching TV series and intuitive programs like Dragon's Den.
