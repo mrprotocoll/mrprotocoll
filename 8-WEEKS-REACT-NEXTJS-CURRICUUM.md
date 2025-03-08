@@ -1,8 +1,7 @@
 ## **📖 9-Week Beginner React Curriculum**  
 
 **📅 Schedule:**  
-- **Classes:** Every **Tuesday & Saturday**  
-- **Practice Tasks:** Every **Thursday & Sunday**  
+- **Classes:** Every **Tuesday & Saturday**    
 
 ---
 
