@@ -26,6 +26,7 @@
 
 ### **📌 Week 2: React State & Event Handling**  
 #### 📖 **Tuesday - Class 3**  
+- Understanding React hooks
 - Understanding React **state** with `useState`  
 - Handling **user input** with forms  
 - Using **event listeners** in React  
